@@ -1,0 +1,12 @@
+syntax: glob
+
+blib*
+Makefile
+Makefile.old
+Build
+_build*
+pm_to_blib*
+*.tar.gz
+.lwpcookies
+Test-Mock-Simple-*
+cover_db
